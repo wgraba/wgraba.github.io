@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Wesley Graba
 Wesley is an electrical engineer with a focus in firmware.
 
