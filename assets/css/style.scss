@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#nav-bar li {
+    float: left;
+    list-style-type: none;
+}
+
+#nav-bar li a {
+    display: block;
+}
+
