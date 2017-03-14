@@ -3,7 +3,11 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-<h3>{{ page.date }}</h3>
+<p><em>{{ page.author }}</em></p>
 
-{{ content }}
+<article>
+    {{ content }}
+</article>
+
+<p>{{ page.date }}</p>
 
