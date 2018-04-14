@@ -4,6 +4,11 @@
 ## Sarah Richards Graba
 Sarah is still determining what to write here...
 
+### Links
+* [Blog]({{ site.url }}/blog.html)
+* Projects
+* Resume
+
 ## Wesley Graba
 Wesley is an Electrical Engineer with a focus in firmware for industrial instrumentation.
 
@@ -13,4 +18,3 @@ Wesley is an Electrical Engineer with a focus in firmware for industrial instrum
 * [Blog]({{ site.url }}/blog.html)
 * Projects
 * Resume
-
