@@ -16,5 +16,5 @@ Wesley is an Electrical Engineer with a focus in firmware for industrial instrum
 
 ### Links
 * [Blog]({{ site.url }}/blog.html)
-* Projects
+* [Projects]({{ site.url }}/wes_projects.html)
 * Resume
