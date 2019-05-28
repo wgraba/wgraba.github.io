@@ -7,14 +7,12 @@ Sarah is still determining what to write here...
 ### Links
 * [Blog]({{ site.url }}/blog.html)
 * Projects
-* Resume
 
 ## Wesley Graba
-Wesley is an Electrical Engineer with a focus in firmware for industrial instrumentation.
+Wesley is an Electrical Engineer with a focus in firmware for industrial instrumentation. Resume available upon request.
 
 ![Circuit Traces](https://lh3.googleusercontent.com/-pi9RL77BbWolXnqqFmQ9Dl0XuqtBvWsUR2MiwjhoHlOsP4SOmRspL5XE4jfOryvsLu5x4LMy8Ul4SZvqO5iDnxyFJG7qp5508lpsDUghl_-GXF4S-A2-k4QIq6toOOyKXJ53jtcf6AXt22-xT1BWOIcI0eHglKNb92aDjmMOcfb_miHGxZK_iVZra0NVlhIAAQvy2ojLbnGLZs8fBkxTdG0uINPakfv-xi1N5Sod6s5aZ4gC98gBD3QTnGvz7gW6bP8VeddbhOFWfg8Jr4RvNJzGcXHJtjjuG5s4nHaEFxBHoCFxGj8DNyzu9tp6_NxFZ9VvtCJrL9rEgpCq4Ky2qh948CXiqCqK9cHmr8mO9OEO1qfJnNaTboxCSWF_o_UbMQxb0pQCb0qECLJ7eETXP0_RvzqPnPejHcYQ3SddLL6vx4CEQsz83dfnQFOJHzesZePtjJWits_DtZlJgHYKgHo47gmPsGepfeIXjcjUN_MkxNcpnBMhAjnDG7C_9n-u9rNRg5OC8afE91B0PEEhu6yg6jrASTJ765xZvDYo46neL-RqV-ap4AfOm2vNXJr-qsWQIOYZ0fowixKbCQe3ViE7vLpLVHQjKXoWD9DVje6egX5qh8s=w500-h333-no)
 
 ### Links
 * [Blog]({{ site.url }}/blog.html)
 * [Projects]({{ site.url }}/wes_projects.html)
-* Resume
