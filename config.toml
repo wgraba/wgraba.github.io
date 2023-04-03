@@ -2,6 +2,9 @@ baseurl = "https://wesgraba.com"
 DefaultContentLanguage = "en"
 title = "Wesley Graba"
 theme = "beautifulhugo"
+
+enableEmoji = true
+enableGitInfo = true
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -20,7 +23,7 @@ pygmentsCodefencesGuessSyntax = true
   dateFormat = "2006-01-02"
   commit = false
   rss = true
-  comments = true
+  comments = false
   readingTime = true
   wordCount = true
   useHLJS = true
@@ -45,7 +48,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Wesley Graba"
-  #website = "wgraba.github.io"
+  website = "https://wesgraba.com"
   #email = "youremail@domain.com"
   #facebook = "username"
   github = "wgraba"
@@ -81,9 +84,19 @@ pygmentsCodefencesGuessSyntax = true
 #    weight = 1
 
 [[menu.main]]
+    identifier = "about"
     name = "About"
-    url = "page/about/"
     weight = 3
+
+[[menu.main]]
+    parent = "about"
+    name = "Me"
+    url = "page/about/"
+
+[[menu.main]]
+    parent = "about"
+    name = "Resume"
+    url = "https://rxresu.me/wesley.graba/base"
 
 #[[menu.main]]
 #    identifier = "samples"
