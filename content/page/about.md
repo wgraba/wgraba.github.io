@@ -15,7 +15,7 @@ Digital Signal Processing/Communications graduate program at the
 
 While attending school, I worked as a Manufacturing Engineer at Helix Technology
 and [Brooks Automation](https://brooks.com) maintaining manufacturing processes 
-and test systems. This led to a position as an Electrical Engineer.
+and test systems. This led to a position as an Electrical Engineer at Brooks.
 
 While working on USB communication for the 
 [835 Vacuum Quality Monitor (VQM)](https://www.mks.com/f/835-vacuum-quality-monitor),
