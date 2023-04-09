@@ -4,7 +4,7 @@ comments: false
 date: 2023-04-02T11:15:17-06:00
 ---
 
-## Bio
+<!-- ## Bio -->
 I am a Husband :ring:, Father :family_man_woman_girl_girl:, and self-procliamed
 Linux nerd :nerd_face: living in Colorado, U.S.
 
