@@ -9,6 +9,7 @@ services:
   hugo:
     build: .
     user: ${UID}:${GID}
+    command: serve -D
     volumes:
       - .:/working
     working_dir: /working
