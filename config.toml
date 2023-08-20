@@ -73,7 +73,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
 #    parent = "about"
-    name = "Resume"
+    name = "Résumé"
     url = "https://rxresu.me/wesley.graba/base"
     weight = 2
 
